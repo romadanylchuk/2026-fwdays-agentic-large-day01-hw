@@ -31,8 +31,8 @@ Below is **what exists in the current codebase** (not a roadmap or external back
 
 ## Manual update section
 
-- **Last stable release / tag:** _…_
-- **Current WIP:** _…_
+- **Last stable release / tag:** not applicable (fork for coursework)
+- **Current WIP:** Day 1 workshop documentation
 
 ## Sources in code
 
